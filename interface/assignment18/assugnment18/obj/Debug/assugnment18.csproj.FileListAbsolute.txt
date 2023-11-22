@@ -1,0 +1,7 @@
+C:\Users\rayar\source\repos\assugnment18\assugnment18\bin\Debug\assugnment18.exe.config
+C:\Users\rayar\source\repos\assugnment18\assugnment18\bin\Debug\assugnment18.exe
+C:\Users\rayar\source\repos\assugnment18\assugnment18\bin\Debug\assugnment18.pdb
+C:\Users\rayar\source\repos\assugnment18\assugnment18\obj\Debug\assugnment18.csproj.AssemblyReference.cache
+C:\Users\rayar\source\repos\assugnment18\assugnment18\obj\Debug\assugnment18.csproj.CoreCompileInputs.cache
+C:\Users\rayar\source\repos\assugnment18\assugnment18\obj\Debug\assugnment18.exe
+C:\Users\rayar\source\repos\assugnment18\assugnment18\obj\Debug\assugnment18.pdb
